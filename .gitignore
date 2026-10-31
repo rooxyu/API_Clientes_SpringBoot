@@ -1,0 +1,7 @@
+/target/
+/.idea/
+/.codex/
+*.iml
+.env
+.env.*
+!.env.example
